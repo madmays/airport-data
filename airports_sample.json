@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata": "DXB",
+    "icao": "OMDB",
+    "lat": 25.2532,
+    "lon": 55.3657,
+    "type": "large_airport"
+  },
+  {
+    "name": "Dubai Al Maktoum Intl",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata": "DWC",
+    "icao": "OMDW",
+    "lat": 24.8963,
+    "lon": 55.1614,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Abu Dhabi Bateen Executive Airport",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "iata": "AZI",
+    "icao": "OMAD",
+    "lat": 24.4283,
+    "lon": 54.4581,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sharjah International Airport",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "iata": "SHJ",
+    "icao": "OMSJ",
+    "lat": 25.3286,
+    "lon": 55.5172,
+    "type": "medium_airport"
+  }
+]
